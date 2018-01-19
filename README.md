@@ -10,3 +10,7 @@
 ***bold & italic***
 
 _italic_
+
+~~rup~~
+
+**Mama mila _ramu_**
